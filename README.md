@@ -1,4 +1,5 @@
 这是一个简单的scrapy爬虫
+
 step1：scrapy startproject projectname	//创建scrapy项目
 
 step2：cd projectname；scrapy genspider example example.com；	//初始化
